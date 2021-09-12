@@ -1,6 +1,6 @@
 # AdvanceProgramming-Project
 
-Final Project Of Advance Programming - Click [here](quora.com/profile/Ashish-Kulkarni-100)Dr.Taheri - Spring 2021
+Final Project Of Advance Programming -[Dr.Taheri](https://scholar.google.com/citations?hl=en&user=67GnXEsAAAAJ) - Spring 2021
 
 University Library System
 
